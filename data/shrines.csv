@@ -1,0 +1,121 @@
+id,name,region,x,y
+1,Oman Au,Great Plateau,623.1,674.1
+2,Ja Baij,Great Plateau,650.9,731.2
+3,Owa Daim,Great Plateau,589.6,773.0
+4,Keh Namut,Great Plateau,528.3,734.0
+5,Bosh Kala,Dueling Peaks,719.2,689.4
+6,Toto Sah,Dueling Peaks,938.0,793.9
+7,Shee Vaneer,Dueling Peaks,865.5,728.4
+8,Ree Dahee,Dueling Peaks,869.7,713.1
+9,Shee Venath,Dueling Peaks,860.0,711.7
+10,Ha Dahamar,Dueling Peaks,915.7,724.3
+11,Ta'loh Naeg,Dueling Peaks,938.0,589.1
+12,Hila Rao,Dueling Peaks,814.0,589.1
+13,Lakna Rokee,Dueling Peaks,960.3,607.2
+14,Chaas Qeta,Hateno,1208.3,858.0
+15,Myahm Agana,Hateno,1128.9,760.5
+16,Tahno O'ah,Hateno,1232.0,693.6
+17,Jitan Sa'mi,Hateno,1193.0,649.0
+18,Dow Na'eh,Hateno,1043.9,651.8
+19,Kam Urog,Hateno,1018.8,669.9
+20,Mezza Lo,Hateno,1034.1,530.6
+21,Daka Tuss,Lanayru,908.7,541.7
+22,Kaya Wan,Lanayru,809.8,505.5
+23,Soh Kofi,Lanayru,988.2,448.3
+24,Sheh Rata,Lanayru,896.2,434.4
+25,Rucco Maag,Lanayru,1124.7,534.7
+26,Shai Yota,Lanayru,1240.4,513.8
+27,Dagah Keek,Lanayru,1099.6,428.8
+28,Ne'ez Yohma,Lanayru,1121.9,416.3
+29,Kah Mael,Lanayru,1294.5,320.4
+30,Rona Kachta,Woodland,571.5,151.5
+31,Monya Toma,Woodland,521.4,299.2
+32,Kuhn Sidajj,Woodland,709.5,243.5
+33,Daag Chokah,Woodland,705.3,178.0
+34,Keo Ruug,Woodland,769.4,211.5
+35,Maag Halan,Woodland,811.2,180.8
+36,Ketoh Wawai,Woodland,744.3,94.4
+37,Mirro Shaz,Woodland,862.8,332.7
+38,Dah Kaso,Central,496.3,697.8
+39,Rota Ooh,Central,513.0,644.8
+40,Wahgo Katta,Central,749.9,610.0
+41,Kaam Ya'tak,Central,588.2,572.4
+42,Katah Chuki,Central,627.3,440.0
+43,Noya Neha,Central,589.6,403.8
+44,Saas Ko'sah,Central,688.6,338.3
+45,Namika Ozz,Central,802.8,380.1
+46,Ishto Soh,Lake,581.3,930.5
+47,Shoqa Tatone,Lake,719.2,963.9
+48,Ka'o Makagh,Lake,773.6,923.5
+49,Pumaag Nitae,Lake,777.8,856.6
+50,Ya Naga,Lake,667.7,806.5
+51,Shae Katha,Lake,816.8,775.8
+52,Shai Utoh,Faron,906.0,933.3
+53,Qukah Nata,Faron,957.5,891.5
+54,Shoda Sah,Faron,931.0,859.4
+55,Tawa Jinn,Faron,1035.5,837.1
+56,Yah Rin,Faron,1060.6,897.0
+57,Kah Yah,Faron,1135.9,898.4
+58,Muwo Jeem,Faron,1166.5,895.7
+59,Korgu Chideh,Faron,1300.3,954.2
+60,Mijah Rokee,Ridgeland,362.5,509.7
+61,Shae Loya,Ridgeland,341.6,427.4
+62,Sheem Dagoze,Ridgeland,469.8,494.3
+63,Mogg Latan,Ridgeland,421.0,541.7
+64,Zalta Wa,Ridgeland,528.3,409.3
+65,Maag No'rah,Ridgeland,464.2,302.0
+66,Toh Yahsa,Ridgeland,422.4,370.3
+67,Sha Warvo,Tabantha,231.5,207.3
+68,Voo Lota,Tabantha,205.0,270.0
+69,Akh Va'quot,Tabantha,249.6,261.6
+70,Bareeda Naag,Tabantha,258.0,292.3
+71,Tena Ko'sah,Tabantha,273.3,427.4
+72,Kah Okeo,Tabantha,191.1,433.0
+73,Hia Miu,Hebra,153.5,6.6
+74,To Quomo,Hebra,205.0,20.6
+75,Mozo Shenno,Hebra,255.2,105.6
+76,Shada Naw,Hebra,333.2,80.5
+77,Rok Uwog,Hebra,408.5,79.1
+78,Sha Gehma,Hebra,497.7,15.0
+79,Qaza Tokki,Hebra,603.6,42.9
+80,Goma Asaagh,Hebra,358.3,122.3
+81,Maka Rah,Hebra,199.5,168.3
+82,Dunba Taag,Hebra,352.7,286.7
+83,Lanno Kooh,Hebra,379.2,228.2
+84,Gee Ha'rah,Hebra,408.5,198.9
+85,Rin Oyaa,Hebra,492.1,165.5
+86,Hawa Koth,Wasteland,100.5,955.6
+87,Kema Zoos,Wasteland,124.2,732.6
+88,Tho Kayu,Wasteland,108.9,832.9
+89,Raqa Zunzo,Wasteland,231.5,874.8
+90,Misae Suma,Wasteland,336.0,955.6
+91,Dila Maag,Wasteland,482.3,913.8
+92,Korsh O'hu,Wasteland,370.9,838.5
+93,Kay Noh,Wasteland,358.3,770.2
+94,Dako Tah,Wasteland,292.8,754.9
+95,Suma Sahma,Wasteland,529.7,915.2
+96,Jee Noh,Wasteland,483.7,785.6
+97,Daqo Chisay,Wasteland,230.1,830.2
+98,Keeha Yoog,Gerudo,225.9,572.4
+99,Kuh Takkar,Gerudo,320.7,637.9
+100,Kema Kosassa,Gerudo,125.6,598.8
+101,Sasa Kai,Gerudo,260.8,728.4
+102,Joloo Nah,Gerudo,457.3,693.6
+103,Sho Dantu,Gerudo,220.4,693.6
+104,Shora Hah,Eldin,900.4,97.2
+105,Daqa Koh,Eldin,964.5,194.7
+106,Qua Raym,Eldin,932.4,293.7
+107,Tah Muhl,Eldin,995.1,364.7
+108,Mo'a Keet,Eldin,1045.3,336.9
+109,Sah Dahaj,Eldin,1041.1,285.3
+110,Gorae Torr,Eldin,1039.7,54.0
+111,Kayra Mah,Eldin,970.1,231.0
+112,Shae Mo'sah,Eldin,924.1,161.3
+113,Zuna Kai,Akkala,1121.9,52.6
+114,Ze Kasho,Akkala,1087.1,275.6
+115,Ke'nai Shakah,Akkala,1227.8,375.9
+116,Ritaag Zumo,Akkala,1275.2,218.4
+117,Tutsuwa Nima,Akkala,1179.1,146.0
+118,Tu Ka'loh,Akkala,1287.8,21.9
+119,Dah Hesho,Akkala,1194.4,321.5
+120,Katosa Aug,Akkala,1244.6,140.4
